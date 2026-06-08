@@ -9,7 +9,7 @@ A high-performance, asynchronous RESTful API built to demonstrate advanced Pytho
 The database is built on a highly normalized relational structure handling departments, employee rosters, specialized course tracking, and student performance metrics.
 
 ### Database Schema (ER Diagram)
-*Replace this text with your dBeaver ER Diagram screenshot!*
+<img width="1312" height="777" alt="Screenshot 2026-06-08 232114" src="https://github.com/user-attachments/assets/9b40106e-3ed1-4dae-8067-d9fe2fe8bf50" />
 
 ### Key Architecture Details:
 - **Many-to-Many Bridge Table (`CrsResults`)**: Seamlessly connects `Courses` and `Trainees` to maintain strict relational integrity for tracking scores.
