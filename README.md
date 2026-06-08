@@ -35,7 +35,7 @@ To separate database internals from client-facing API responses, this system imp
 Retrieves all certified trainers inside the enterprise along with their departmental metadata.
 
 ### Swagger UI Execution Screenshot
-*Take a screenshot of your FastAPI Swagger UI output response body and place it here!*
+<img width="1915" height="950" alt="Screenshot 2026-06-08 232338" src="https://github.com/user-attachments/assets/eb908ad6-0f2b-4476-82e6-2f684a7084f5" />
 
 ### Sample JSON Output (DTO Format)
 ```json
