@@ -9,7 +9,7 @@ A high-performance, asynchronous RESTful API built to demonstrate advanced Pytho
 The database is built on a highly normalized relational structure handling departments, employee rosters, specialized course tracking, and student performance metrics.
 
 ### Database Schema (ER Diagram)
-<img width="1312" height="777" alt="Screenshot 2026-06-08 232114" src="https://github.com/user-attachments/assets/9b40106e-3ed1-4dae-8067-d9fe2fe8bf50" />
+<img width="1250" height="976" alt="Screenshot 2026-06-08 232522" src="https://github.com/user-attachments/assets/1e2ff689-ef73-440f-8379-7b296e35b8b0" />
 
 ### Key Architecture Details:
 - **Many-to-Many Bridge Table (`CrsResults`)**: Seamlessly connects `Courses` and `Trainees` to maintain strict relational integrity for tracking scores.
